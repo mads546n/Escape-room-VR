@@ -1,1 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T07:30:03.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="dsYTM4p-fzJ5w5kup4gk" version="12.9.0" type="github"><diagram id="-oToipq7_auRIPzijGVL" name="Page-1">7Vzdd+IoFP9rfJw9CSRRHzttd+Zh55w50z3dnUdqMFIjuAmOun/9Qsgn+JFqlLjtQ224uSFw+f3g3gs6gPeLzZcELWffWIjjAXDCzQA+DAAYA198SsFWCQInF0QJCZXIrQRP5F+cC51cuiIhThuKnLGYk2VTOGGU4glvyFCSsHVTbcri5luXKMKG4GmCYlP6Fwn5TElHYFjJv2ISzYo3u8FY3VmgQjnvSTpDIVvXRPBxAO8Txri6WmzucSxtV9hFPff7nrtlwxJMeZsHnCVH9yHnX9abu7vXrz/gM+Gf8lp+oXiVd/hpSeIYc9lgjhIubK9az7eFSRK2oiGWtToD+Hk9Ixw/LdFE3l0LDAjZjC9iUXLFZV4/FjVt9jbcLc0hYITZAvNkK1SKBwoLlhBSxXU1HqXKrDYWhR7KIRCVNVdWEhe5od5gNGAY7U8c4ymjsluxsEQireYQ8ff8Q3y8JNKkibhikaQCliAWwJFKy8E9HNz51o0MRj0zMjSM/A3TlZSQtAeg9Lye2WtsmASHYibLiyzhMxYxiuLHSvq5abRK5w/GlrmpXjHn23xaRivOmobEG8L/lo//5ueln7U7D5u85qywLQpUdLf2kCz+rN+rHstKxXOqf7JTh4dM2ICtkgk+YCsvX0hQEmF+QM/fDYEEx4iTX812dD6gnkGAh2wOEXXP59nckU3Q1pkQOD1jggutUqFGhIoWR6jgNohQ8eLyVPBbUsHdA4LrcME3FwMkV9tIrZ5JvtqGmGZN4pTQKPPBZHlOoihjDq201R1FpaS+DNdXbCpJNqeCM33jmGudZIExIibpaHgnPXBRmsQoTclkN2PcUxjjWGNMEYUcYwzYPaK1EfN3DFgha82r/A3fGaG8AgzU3DkDCKqb+VP1qEGryINaRa5WkbKDUVEGqrLbp+Ns+G5xBlriDNrEmafFZu7wVJwFRyragzMx8mhbU1tKhfQSSBy9WyTClkj0rCJxrE1UzolI9PUZT6/owjOe65m4+nBfD7qlbfzXPcvxdfxX18yzKQd2SsSwSQcU58kjyrEx/LZzG/a9TXf0wYn2nDgX6rvnRaCjYnzleRHs4VAtCOTZZSBbTdm8EddxIt+AssS2TMASOmUvbCN5Z5lueuq1B3T7SCZWu01HV5bgInRz9QgOtPNnuqJbuW11SxgA1kAw7BUI9kdFLd/jaXuJenrBPagvLlQLul0AzJyTWgBStFDba8p/kiJmP2enb1vaT4yXHoQlSg/rnHZOmtfdzih93I0atuS+1V0i10yQaaQg8znuGzd0l6cH3DC9ywEIYvHaz+lSGbQ0V/DPSh7aUHb6lCpD3WU+Z7JAcaUgriL5vxyRBaYxiagal8oBdRbC9gJpr3gek1RGgE6IOCoaIDqk2qBqM0dvxhYvq9TKrOb6LUdudLGRM08KfC+xnlk6IREnkXXQ66aDbU13OdCbe8ya6aYsmeMebDLrE0YPbGfuSZqra8t8cL8inuMrY9ByZQRW9yb0PbASM+fugcErZ4RBF5ut9gNlYHV/QA9xILwyGt4ak0Fvd4MvGmPBHci6Xohw2r6YFvVfMUQA1woRTgIQ0LZUveHhoF7X9/UDxZp+AA/qXwagwIx3HuSp0GmVBM4OL0/F7Re1qVKmgENCm152zxzCct/F3qFbqxmCE+k/tEb/0ZXof56jah5c0BmTpwhuhjh6NGCfOGDcgYt2m9EAaHs8BOzJkVuKBvSExMn+n+5IXjgaKF73HqHW9uC+mvM+oHYu1MzUmr50oDiusssJldcq3WY/Z6S7V+XBLnvulZlve84PAPVsRe2BrTrMr93aecu2Kyq0mlGB2onLIv57+zSnZTq8lmd/O5vmOvwyw62tqG0zGNBuKvd/A7UOv89wY1CDbZ23fm0adPXFGdjyizPnpokD93DWzj9L/UhK0HcOqb81IyiK1c8jKPXqNybg438=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-21T09:14:30.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="tRCA-XAIQnxIiXfQJyRe" version="12.9.0" type="github">
+  <diagram id="-oToipq7_auRIPzijGVL" name="Page-1">
+    <mxGraphModel dx="925" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-1" value="Spillet startes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-2" value="Telefon placeres i VR briller og de tages på" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-3" value="Menu vises" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-4" target="0ptaCdttGwxAAjHR3Vit-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-4" value="Der trykkes start" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-5" target="0ptaCdttGwxAAjHR3Vit-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-5" value="Man går i den retning man kigger når man trykker på VR brillens knap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-1" target="0ptaCdttGwxAAjHR3Vit-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-2" target="0ptaCdttGwxAAjHR3Vit-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="170" as="sourcePoint" />
+            <mxPoint x="460" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-3" target="0ptaCdttGwxAAjHR3Vit-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="200" as="sourcePoint" />
+            <mxPoint x="530" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-11" target="0ptaCdttGwxAAjHR3Vit-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-11" value="Man finder en plante" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-12" value="Man går tæt nok på til at se infoboxen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0ptaCdttGwxAAjHR3Vit-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0ptaCdttGwxAAjHR3Vit-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="180" y="240" />
+              <mxPoint x="310" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-16" value="Man samler planten op" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-17" target="0ptaCdttGwxAAjHR3Vit-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-17" value="Man samler ikke planten op" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-22" value="&lt;span style=&quot;white-space: normal&quot;&gt;Man sammenligner infoboxen med tjekliste data&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-23" value="Planten er rigtig" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-24" value="Planten er forkert" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-25" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-16" target="0ptaCdttGwxAAjHR3Vit-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-26" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0ptaCdttGwxAAjHR3Vit-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="330" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-27" target="0ptaCdttGwxAAjHR3Vit-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="470" />
+              <mxPoint x="260" y="520" />
+              <mxPoint x="690" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-27" value="Du får et flueben på din tjekliste" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-28" target="0ptaCdttGwxAAjHR3Vit-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-28" value="Du får ikke et flueben på din tjekliste" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-23" target="0ptaCdttGwxAAjHR3Vit-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-24" target="0ptaCdttGwxAAjHR3Vit-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-33" value="Du får alle planterne rigtigt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-34" value="Vinder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-35" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-33" target="0ptaCdttGwxAAjHR3Vit-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-36" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-27" target="0ptaCdttGwxAAjHR3Vit-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ptaCdttGwxAAjHR3Vit-37" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0ptaCdttGwxAAjHR3Vit-34" target="0ptaCdttGwxAAjHR3Vit-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="360" as="sourcePoint" />
+            <mxPoint x="430" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="610" />
+              <mxPoint x="50" y="610" />
+              <mxPoint x="50" y="20" />
+              <mxPoint x="500" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
